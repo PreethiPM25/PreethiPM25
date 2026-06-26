@@ -154,3 +154,122 @@ Coming Soon... 🚀
 </div>
 
 ---
+
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🌟 Project | 📝 Description | ⚙️ Tech Stack |
+|------------|----------------|---------------|
+| 🌾 **Farmer Retailer Trading** | A full-stack agriculture marketplace connecting farmers and retailers. | HTML • CSS • JavaScript |
+| 💻 **Coding Practice** | Daily Java, SQL and DSA problem solving. | Java • SQL |
+| 📊 **Data Analytics Internship** | Data Analytics projects with visualization and reporting. | Python • Power BI • Excel |
+| 📋 **SprintSync Project Management** | Responsive frontend application developed during internship. | React • TypeScript • CSS |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🥇 Microsoft Certified: Azure AI Engineer Associate
+
+🎓 NPTEL Certified
+
+💻 HackerRank Java (Basic)
+
+📊 Data Analytics Internship
+
+🎨 UI/UX Design Projects
+
+---
+
+# 📚 Publications
+
+📖 **Smart Gas Leakage Detector**
+
+- IoT Based Safety Solution
+- Published Research Paper
+
+<br>
+
+📖 **Smart Traffic Management using AI**
+
+- AI Powered Traffic Optimization
+- Computer Vision Based Solution
+
+---
+
+# 💼 Internship Experience
+
+### 🏢 WizTech Automation Solutions
+
+- Frontend Development
+- Responsive UI Design
+- React & TypeScript Projects
+
+<br>
+
+### 🏢 Data Analytics Internship
+
+- Data Visualization
+- Python
+- Power BI
+- Business Analytics
+
+---
+
+# 🎓 Education
+
+🎓 **Bachelor of Technology**
+
+Computer Science and Business Systems (Honours)
+
+R.M.D Engineering College
+
+---
+
+# 🌟 Daily Motivation
+
+> *"Success doesn't come from what you know. It comes from what you consistently build."* 💜
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pmpreethi25">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://preethipm-portfolio.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=PreethiPM25&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# 💜 Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+
+</div>
