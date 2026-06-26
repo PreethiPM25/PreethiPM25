@@ -171,3 +171,202 @@ Currently Learning:
 ### ⭐ Always learning, always building.
 
 </div>
+
+````markdown
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌾 Farmer Retailer Trading Platform
+
+A full-stack agriculture marketplace connecting farmers and retailers with a secure and user-friendly experience.
+
+**Tech Stack**
+
+JavaScript • HTML • CSS
+
+</td>
+
+<td width="50%">
+
+### 💻 Coding Practice
+
+Daily Java & DSA problem-solving repository.
+
+**Focus Areas**
+
+✔ Arrays
+
+✔ Strings
+
+✔ SQL
+
+✔ Java
+
+✔ Problem Solving
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Data Analytics Internship
+
+Projects completed during my Data Analytics Internship.
+
+**Tools**
+
+Python
+
+Excel
+
+Power BI
+
+SQL
+
+</td>
+
+<td width="50%">
+
+### 📋 SprintSync Project Management
+
+A responsive frontend project developed during my internship.
+
+**Tech**
+
+TypeScript
+
+React
+
+CSS
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏅 Achievements
+
+🏆 Microsoft Certified: Azure AI Engineer Associate
+
+📚 Published Research Paper
+
+🎯 HackerRank Java Certified
+
+🎓 NPTEL Certified
+
+💼 Multiple Internship Experiences
+
+---
+
+# 📚 Publications
+
+📖 Smart Gas Leakage Detector
+
+📖 Smart Traffic Management using AI
+
+---
+
+# 💼 Internship Experience
+
+🏢 WizTech Automation Solutions
+
+Frontend Development
+
+Project Management
+
+Responsive Web Development
+
+---
+
+🏢 Data Analytics Internship
+
+Power BI
+
+Python
+
+Data Visualization
+
+Business Analytics
+
+---
+
+# 🎓 Education
+
+🎓 B.Tech
+
+Computer Science and Business Systems (Honours)
+
+R.M.D Engineering College
+
+---
+
+# 🌟 Fun Facts
+
+```text
+☕ I love turning ideas into projects.
+
+🌌 Purple is my favorite GitHub theme.
+
+🚀 Learning something new every day.
+
+🤖 Passionate about AI.
+
+💜 Building projects that solve real problems.
+```
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pmpreethi25">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://preethipm-portfolio.lovable.app">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome"/>
+
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> **After creating a GitHub Action**, this animation will appear automatically:
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/PreethiPM25/PreethiPM25/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 💜 Thanks for Visiting!
+
+### ⭐ If you like my projects, don't forget to star them!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
+````
