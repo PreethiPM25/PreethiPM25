@@ -83,3 +83,91 @@ Currently Learning:
 
 </div>
 ````
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,html,css,js,mysql,git,github,vscode,idea&theme=dark"/>
+
+</p>
+
+---
+
+## ☁ Microsoft Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PreethiPM25&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiPM25&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=PreethiPM25&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PreethiPM25&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PreethiPM25&theme=discord&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 💜 What I'm Currently Working On
+
+```text
+💻 Java Development
+
+☁ Azure AI
+
+🚀 Spring Boot
+
+🎨 UI/UX Designing
+
+🤖 Artificial Intelligence
+
+📈 Data Analytics
+
+🧩 Daily DSA Practice
+```
+
+---
+
+<div align="center">
+
+### ⭐ Always learning, always building.
+
+</div>
