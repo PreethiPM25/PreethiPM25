@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Preethi PM, Welcom to me GitHub Profile !!
+# 👋 Hi, I'm Preethi PM !!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Java+Developer;Microsoft+Certified+Azure+AI+Engineer;Spring+Boot+Developer;UI%2FUX+Designer;AI+Enthusiast;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
@@ -24,18 +24,22 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **B.Tech Computer Science and Business Systems (Honours)**  
-🏫 R.M.D Engineering College
+🎓 Education
+B.Tech Computer Science & Business Systems (Honours)
 
-☁️ **Microsoft Certified: Azure AI Engineer Associate**
+☁ Certification
+Microsoft Certified Azure AI Engineer Associate
 
-💻 Passionate about building scalable applications using **Java** and **Spring Boot**
+💻 Interests
+Java • Spring Boot • AI
 
-🤖 Exploring **Artificial Intelligence** and **Azure AI**
+🎨 Passion
+UI/UX Design
 
-🎨 Interested in creating modern and user-friendly **UI/UX**
+🚀 Goal
+Building impactful applications through technology
 
-🚀 Always learning, building and improving through real-world projects.
+🚀 Turning Ideas into Reality, building and improving through real-world projects.
 
 <br clear="right"/>
 
@@ -96,3 +100,117 @@ public class Preethi {
 
 ---
 
+---
+
+# 💻 Tech Arsenal
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&theme=dark"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark"/>
+</p>
+
+### ⚙ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+</p>
+
+### ☁ Cloud & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,tensorflow&theme=dark"/>
+</p>
+
+### 🛠 Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+# 🏆 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PreethiPM25&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiPM25&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PreethiPM25&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PreethiPM25&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PreethiPM25&theme=discord&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+<div align="center">
+
+| 🚀 Learning | 💜 Building |
+|-------------|-------------|
+| Spring Boot | Backend APIs |
+| Azure AI | AI Solutions |
+| React | Responsive UI |
+| Java | Scalable Applications |
+| DSA | Coding Practice |
+
+</div>
+
+---
+
+# 📌 2026 Goals
+
+- 🎯 Solve 500+ DSA Problems
+- ☁ Master Azure AI Services
+- 🌱 Build Production-Level Spring Boot Projects
+- 🤝 Contribute to Open Source
+- 🚀 Secure a Software Engineering Role
+- 💜 Keep Learning Every Day
+
+---
